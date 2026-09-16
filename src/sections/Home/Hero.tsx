@@ -19,6 +19,9 @@ const Hero = () => {
             {/* Dark Vignette */}
             <div className="absolute inset-0 bg-black/35 z-10" />
 
+            {/* Top Black Gradient */}
+            <div className="absolute inset-x-0 top-0 h-40 bg-gradient-to-b from-black/70 via-black/30 to-transparent z-10 pointer-events-none" />
+
             {/* Bottom Gradient */}
             <div className="absolute inset-x-0 bottom-0 h-72 bg-gradient-to-t from-[#0d2346]/95 via-[#0d2346]/40 to-transparent z-10 pointer-events-none" />
 
