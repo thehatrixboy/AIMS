@@ -1,5 +1,5 @@
 import Hero from "../sections/Home/Hero";
-import AboutSection from "../sections/Home/Hero-about";
+import AboutSection from "../sections/Home/AboutSection";
 function HeroPage(){
     return(
         <>
