@@ -22,7 +22,7 @@ export default function Footer() {
                             </a>
                             <div className='w-full max-w-52 h-px mt-8 bg-linear-to-r from-black via-white/25 to-black'></div>
                             <p className='text-sm text-white/60 mt-6 max-w-sm leading-relaxed'>
-                                PrebuiltUI is a growing collection of beautifully designed, production-ready Tailwind CSS UI components.
+                                AIMS is a growing collection of beautifully designed, production-ready Tailwind CSS UI components.
                             </p>
                         </div>
             
